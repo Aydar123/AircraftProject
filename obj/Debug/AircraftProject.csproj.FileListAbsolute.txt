@@ -1,0 +1,7 @@
+C:\Users\Алмаз\source\repos\AircraftProject\bin\Debug\AircraftProject.exe.config
+C:\Users\Алмаз\source\repos\AircraftProject\bin\Debug\AircraftProject.exe
+C:\Users\Алмаз\source\repos\AircraftProject\bin\Debug\AircraftProject.pdb
+C:\Users\Алмаз\source\repos\AircraftProject\obj\Debug\AircraftProject.csprojAssemblyReference.cache
+C:\Users\Алмаз\source\repos\AircraftProject\obj\Debug\AircraftProject.csproj.CoreCompileInputs.cache
+C:\Users\Алмаз\source\repos\AircraftProject\obj\Debug\AircraftProject.exe
+C:\Users\Алмаз\source\repos\AircraftProject\obj\Debug\AircraftProject.pdb

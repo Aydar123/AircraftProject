@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations>
+ <Operation>
+  <Aircarft>
+   <ID>10</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Airbas ACJ320</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>12</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>Су-34</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>14</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>АН-124</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>13</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>МиГ-35</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>12</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>Су-34</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>11</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 747</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>10</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Airbas ACJ320</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>15</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>ИЛ-76</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>Landing</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>13</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>МиГ-35</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>14</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>АН-124</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>11</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 747</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>12</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>Су-34</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>10</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Airbas ACJ320</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>15</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>ИЛ-76</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>10</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Airbas ACJ320</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>StartRepeir</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>11</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 747</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>13</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>МиГ-35</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>14</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>АН-124</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>12</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>Су-34</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>15</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>ИЛ-76</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>14</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>АН-124</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>11</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 747</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>15</ID>
+   <TypeAircraft>Cargo</TypeAircraft>
+   <Model>ИЛ-76</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>13</ID>
+   <TypeAircraft>Military</TypeAircraft>
+   <Model>МиГ-35</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>FinishRepair</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>StartRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>FinishRefueling</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+ <Operation>
+  <Aircarft>
+   <ID>9</ID>
+   <TypeAircraft>Passenger</TypeAircraft>
+   <Model>Boing 777</Model>
+  </Aircarft>
+  <Event>Takeoff</Event>
+  <Date>27 сентября 2021 г.</Date>
+  <Time>16:25</Time>
+ </Operation>
+</Operations>
